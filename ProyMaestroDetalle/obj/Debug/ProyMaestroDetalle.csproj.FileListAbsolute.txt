@@ -1,0 +1,136 @@
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\ProyMaestroDetalle.exe.config
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\ProyMaestroDetalle.exe
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\ProyMaestroDetalle.pdb
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.AssemblyReference.cache
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.FBuscarProducto.resources
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.FBuscarVenta.resources
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.FImprimir.resources
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.Form1.resources
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.Properties.Resources.resources
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.GenerateResource.cache
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\RdlCompile.cache
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\RdlCompile.compiled
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.CopyComplete
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.exe
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.pdb
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.ProvedorFR.resources
+C:\Users\Personal\Downloads\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.CompraFR.resources
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\ProyMaestroDetalle.exe.config
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\ProyMaestroDetalle.exe
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\ProyMaestroDetalle.pdb
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.CompraFR.resources
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.FBuscarProducto.resources
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.FBuscarVenta.resources
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.FImprimir.resources
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.Form1.resources
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.Properties.Resources.resources
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.ProvedorFR.resources
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.CopyComplete
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.exe
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.pdb
+D:\UNIVERSIDAD\actividad 6\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.Form2.resources
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\ProyMaestroDetalle.exe.config
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\ProyMaestroDetalle.exe
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\ProyMaestroDetalle.pdb
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.CompraFR.resources
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.FBuscarProducto.resources
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.FBuscarVenta.resources
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.FImprimir.resources
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.Form1.resources
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.Form2.resources
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.provedorFR.resources
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.exe
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.pdb
+C:\Users\Usuario\Desktop\ProyMaestroDetalle\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.venta.resources
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\bin\Debug\ProyMaestroDetalle.exe.config
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\bin\Debug\ProyMaestroDetalle.exe
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\bin\Debug\ProyMaestroDetalle.pdb
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.SuggestedBindingRedirects.cache
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.CompraFR.resources
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.FBuscarProducto.resources
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.FBuscarVenta.resources
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.FImprimir.resources
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.Form1.resources
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.Form2.resources
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.Properties.Resources.resources
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.provedorFR.resources
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.venta.resources
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.CopyComplete
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.exe
+D:\UNIVERSIDAD\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.pdb
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\bin\Debug\ProyMaestroDetalle.exe.config
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\bin\Debug\ProyMaestroDetalle.exe
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\bin\Debug\ProyMaestroDetalle.pdb
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.AssemblyReference.cache
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.CompraFR.resources
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.FBuscarProducto.resources
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.FBuscarVenta.resources
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.FImprimir.resources
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.Form1.resources
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.Form2.resources
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.Properties.Resources.resources
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.provedorFR.resources
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.venta.resources
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.GenerateResource.cache
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.csproj.CoreCompileInputs.cache
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\obj\Debug\ProyMaes.0BF71ED0.Up2Date
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.exe
+D:\backup brandy4\buckup\backup BRANDY\UNIVERSIDAD\desarrollo de sistema\formventa\ProyMaestroDetalle\obj\Debug\ProyMaestroDetalle.pdb
